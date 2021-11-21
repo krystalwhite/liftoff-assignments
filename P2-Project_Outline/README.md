@@ -21,8 +21,10 @@ Store/share itineraries: Authorized users can save their itineraries and share t
 Category preferences: Guests and users can narrow their suggested road-trip locations by selecting category preferences. 
 
 ### Technologies
-Include Technologies here
+Java, SpringBoot, Thymeleaf templates (with option for Angular), Hibernate, and MySQL 
+
 ### What I'll Have to Learn
-Include what you will need to learn here
+We will work heavily with map APIs, and I do not know how to integrate them into code or our app. Additionally, we hope to use Angular to make the front-end of our app more attractive, but that will be a next-level add-on if we have time.  
+
 ### Project Tracker
-Link to your Trello board here
+Our Trello board has both a user stories section and a sprint section. Here's the main page to find both:  https://trello.com/liftoffroadtripplanner
