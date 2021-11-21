@@ -7,7 +7,10 @@ For this assignment, you will submit a high-level outline of your project. This 
 ## Submission Instructions
 
 ### Overview
-Include overview here
+The Better Than Bezos group is creating a road-trip app. The idea originated because my family is planning a three-week road-trip to California, with multiple sightseeing stops along the way, and we have found  the actual research and planning portion of the trip to be burdensome. Our CoderGirl group hopes to streamline that process by providing relevant information to the users in a consolidated and user-friendly interface.
+
+The app will have three levels of authorization: guest, user, and admin. A guest can supply starting and ending destinations, provide some criteria (like preferences for nature or cultural institutions), and the app will provide a listing of cool places to see and restaurants to try along the drive. A user will have that same access, as well as the ability to add specific locations/destinations to their trip, save their trip, and share it with others. The admin will be able to add locations/points of interest to the general database to make them searchable by all guests and users.   
+
 ### Features
 Include Features here
 ### Technologies
