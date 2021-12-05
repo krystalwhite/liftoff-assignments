@@ -13,5 +13,4 @@ For this assignment, you'll create some initial plans for your project.
 [User Stories on Trello](https://trello.com/b/h2uSxA5t/user-stories)
 
 ### Project Repo Link
-
-Include a link to your project on GitHub.
+[RoadTrip Runner Repository](https://github.com/miketully426/RoadTripRunner)
