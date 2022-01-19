@@ -7,4 +7,4 @@ We want to you to create a set of presentation slides summarizing your project.
 ## Submission Instructions
 
 ### Presentation
-Upload a .PDF of your presentation here for review.
+The PDF of the presentation is nested within this folder and is titled KSW LaunchCode Capstone Project - RoadTrip Runner.pdf.
